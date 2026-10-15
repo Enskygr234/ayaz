@@ -83,3 +83,19 @@ ayaz [şehir] [seçenekler]
 ## Lisans
 
 [MIT](LICENSE) © Winterdeveloper
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🖥️ Windows: [Buz Arşiv](https://github.com/Enskygr234/buz-arsiv) · [Ayaz Launcher](https://github.com/Enskygr234/Ayaz-launcher) · [Masaüstü Kar](https://github.com/Enskygr234/masaustu-kar) · [Klavye Ayazı](https://github.com/Enskygr234/klavye-ayazi) · [Güvenlik Kilidi](https://github.com/Enskygr234/GuvenlikKilidi)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
